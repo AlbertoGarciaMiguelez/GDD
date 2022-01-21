@@ -1,26 +1,26 @@
 GAME DESIGN DOCUMENT TEMPLATE
 =============================
 1. Title Page
-   1. Game Name
-   2. Sub-title    
-   3. Catchy quote
-   4. Additional info	
-       1. Developer/Company Name
-       2. GDD author/supervisior
-2. Design History
-   1.  Version 1.0
-   2.  Version 1.1
-   3.  Version 2.0...
-3. Overview of the Game
+   1. Destrilla
+   2. Sub-title  
+   3. Información adicional
+       1. Alberto Garcia Miguelez como develloper
+
+
+2. Historial de versiones
+ 
+ 
+3. Información del juego
    1.  Game Concept
-       1. High Concept
-       2. Key Features
+       1. Concepto de juego
+       2. Géneros
            1. Single Player
            2. Multiplayer
            3. Editor
-       3. Design Questions
-           1. Game's Point and Philosophy
-           2. What is different?
+       3.  Características clave
+           1. Edad
+           2. Numero de jugadores
+           3. 
    2.  Genre
    3.  Target Audience
    4.  Game Experiencing

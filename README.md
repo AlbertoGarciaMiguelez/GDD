@@ -94,10 +94,39 @@ Una vez derrotado a los 4 reyes desbloqueas la cripta donde se encuentra el Fina
     Tab Ver datos sobre jugadores
     W Habilidad 2
 
-**Habilidades**
+### Habilidades
 
-# Mago
-   
-       
+**Mago**
+
+      Habilidades hasta Nivel 20
       
-      Q Habilidad 1
+      Bola de fuego: Pequeña bola que deja un rastro en los enemigos que quema.
+      Bola de hielo: Pequeña bola que deja un rastro en los enemigos que relantiza.
+      Teletransportación: Movimiento instantaneo a 5 metros desde donde se lanza.
+      Drenar: roba vida de los enemigos
+      Muro de viento: bloquea los ataques de los enemigos a distancia.
+      Barrera de piedra: crea una barrera de piedra a tu alrededor que te hace mas resistente a ataques pero mas lento.
+      Repeler: empujas a los enemigos hacia delante.
+      Invisibilidad: te vuelves indetectable
+      Cuando falta: reduce el tiempo de activación de todas las habilidades.
+      
+      Habilidades hasta Nivel 40
+      
+      Lanzallamas: lanzas un huracan de fuego desde la mano hacia el enemigo.
+      Helada: lanzas un huracan de hielo desde la mano hacia el enemigo.
+      SuperDrenaje: ahora drenas hasta 5 enemigos a la vez.
+      Muralla de hielo: creas 4 muros de hielo a tu alrrededor.
+      Armadura de piedra: aumenta enormemente la defensa contra ataques pero también la velocidad.
+      Gravedad: atraes a todos los enemigos a un punto.
+      Fogata de lava: el fuego sale de la tierra y quema a los enemigos para luego salir lava y duplicar el daño.
+      Invisibilidad+: ahora haces daño extra al salir de la instancia.
+      Rayo: Lanza un rayo a un objetivo único que se puede encadenar provocando daño porcentual y silenciando al enemigo.
+      
+      Habilidad hasta Nivel 60
+      
+      Arde: explotas en fuego y quemas a todos los enemigos en un area de 20 unidades.--------------------
+                                                                                                          |- Combo: produce daño extra creando una explosión extra y mayor quita los efectos de estado anteriores.
+      Congelate: explotas en ventisca helada y congelas a todos los enemigos en un area de 20 unidades.---
+      Agujero negro: si tiene un 10% de la vida y no es un enemigo especial, se lo traga. Atrae a todos los enemigos a un punto.
+      
+      

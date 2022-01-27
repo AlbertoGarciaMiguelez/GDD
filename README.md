@@ -11,10 +11,9 @@ GAME DESIGN DOCUMENT TEMPLATE
 2. Historia
  
 3. Interfaz
-   1. Digramas de flujo
-   2. Pantalla Inicio
-   3. Elección
-   4. Opciones
+   1. Pantalla Inicio
+   2. Elección
+   3. Opciones
  
 4. Mecánicas en juego
    1.Controles
@@ -59,6 +58,23 @@ Descongelas al pupilo, le robas la ropa y te marchas. A medida que avanzas vas d
 Cada reino tiene un funcionamiento (Ejemplo: y una distinta forma de economía a la vez que tienes que derrotar a cada rey que es un Boss de la zona.
 Una vez derrotado a los 4 reyes desbloqueas la cripta donde se encuentra el Final Boss que es el Gran Rey Fran donde al matarlo desbloqueas tus recuerdos y desaces la maldición. Descrubiendo tu origen y un nuevo continente, oculto hasta ahora.
 
+
+## Interfaz
+
+### Pantalla de inicio
+
+### Elección
+
+### Opciones
+
+## Mecánicas del juego
+
+### Controles
+
+**Teclado**
+
+    Q Habilidad 1
+    W	Habilidad 2
 
 
 

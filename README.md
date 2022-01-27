@@ -75,8 +75,23 @@ Una vez derrotado a los 4 reyes desbloqueas la cripta donde se encuentra el Fina
 
     Q Habilidad 1
     W Habilidad 2
-    Q Habilidad 1
+    E Habilidad 3
+    R Habilidad 4
+    A Habilidad 5
+    S Habilidad 6
+    D Habilidad 7
+    F Habilidad 8
+    C Montura
+    V Pociones 1
+    X Pociones 2
+    H Intereactuar
+    I Inventario
+    M Mapa
+    T Activar Habilidad especial
+    G Activar Reliquia especial
+    Right-handed Moverse a X dirección
+    Left-handed Marcar a enemigo
+    Tab Ver datos sobre jugadores
     W Habilidad 2
-
 
 

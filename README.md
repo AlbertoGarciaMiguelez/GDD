@@ -94,4 +94,10 @@ Una vez derrotado a los 4 reyes desbloqueas la cripta donde se encuentra el Fina
     Tab Ver datos sobre jugadores
     W Habilidad 2
 
+**Habilidades**
 
+# Mago
+   
+       
+      
+      Q Habilidad 1

@@ -74,7 +74,9 @@ Una vez derrotado a los 4 reyes desbloqueas la cripta donde se encuentra el Fina
 **Teclado**
 
     Q Habilidad 1
-    W	Habilidad 2
+    W Habilidad 2
+    Q Habilidad 1
+    W Habilidad 2
 
 
 

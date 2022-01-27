@@ -55,7 +55,10 @@ Aparece una pantalla donde te dice escoger una clase y probar las habilidades de
 
 Una vez escogido clase se abre un portal en una playa de ella sale toda el agua termal y 2 sujetos. Uno el pupilo congelado y otro que es tu personaje.
 
-Descongelas al pupilo, le robas la ropa y te marchas. A medida que avanzas vas descubriendo el mundo, con algunas misiones que van apareciendo vas desbloqueando habilidades y subiendo niveles. Descubres que el funcionamiento del reino es gracias a que consigue
-energia por medio de vapor y la mayoria de los guardias y enemigos son maquinas de vapor.
+Descongelas al pupilo, le robas la ropa y te marchas. A medida que avanzas vas descubriendo el mundo, con algunas misiones que van apareciendo vas desbloqueando habilidades y subiendo niveles.
+Cada reino tiene un funcionamiento (Ejemplo: y una distinta forma de economía a la vez que tienes que derrotar a cada rey que es un Boss de la zona.
+Una vez derrotado a los 4 reyes desbloqueas la cripta donde se encuentra el Final Boss que es el Gran Rey Fran donde al matarlo desbloqueas tus recuerdos y desaces la maldición. Descrubiendo tu origen y un nuevo continente, oculto hasta ahora.
+
+
 
 

@@ -124,9 +124,13 @@ Una vez derrotado a los 4 reyes desbloqueas la cripta donde se encuentra el Fina
       
       Habilidad hasta Nivel 60
       
-      Arde: explotas en fuego y quemas a todos los enemigos en un area de 20 unidades.--------------------
-                                                                                                          |- Combo: produce daño extra creando una explosión extra y mayor quita los efectos de estado anteriores.
-      Congelate: explotas en ventisca helada y congelas a todos los enemigos en un area de 20 unidades.---
+      Arde: explotas en fuego y quemas a todos los enemigos en un area de 20 unidades.
+      |- Combo: produce daño extra creando una explosión extra y mayor quita los efectos de estado anteriores.
+      Congelate: explotas en ventisca helada y congelas a todos los enemigos en un area de 20 unidades.
       Agujero negro: si tiene un 10% de la vida y no es un enemigo especial, se lo traga. Atrae a todos los enemigos a un punto.
+      Tormenta: crea una tormenta electrica que silencia a los enemigos en la zona y provoca una descarga de rayos.
+      Toma de vida: relantiza a los enemigos y aplica drenaje en un cono pequeño.
+      Dash de fuego: te conviertes en fuego intangible y provocas quemaduras.
+      Fantasma: te conviertes en un fantasma indetectable pero puedes seguir lanzando habilidades.
       
       

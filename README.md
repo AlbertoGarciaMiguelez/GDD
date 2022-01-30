@@ -25,14 +25,13 @@ GAME DESIGN DOCUMENT TEMPLATE
       1. Objectos
       2. Ataques
       3. Diálogos
-   2. Ambiental
-      1. Ciudades
-      2. Mapa
+   2. Ciudades
+   3. Mapa
+   
 6. Mapas y Niveles
    1.  Tutorial
    2.  Mapa
    3.  Nieveles de evolución
-   4.  Speks
 
 7. Arte del juego 
 
@@ -219,3 +218,9 @@ Cada ciudad tendrá una música de acuerdo con su temática.
 #### Mapa
 
 La música del mapa dependera del reino en que se encuentre
+
+## Mapas y Niveles
+
+### Tutorial
+### Mapa
+### Niveles de evolución

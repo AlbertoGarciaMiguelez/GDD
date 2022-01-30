@@ -32,7 +32,7 @@ GAME DESIGN DOCUMENT TEMPLATE
 6. Mapas y Niveles
    1.  Tutorial
    2.  Mapa
-   3.  Nieveles de evolución
+   3.  Niveles de evolución
 
 7. Arte del juego 
 
@@ -191,6 +191,9 @@ En el futuro se tendrá pensado añadir nivel de dificultad mas elevados así co
 ### Gameplay
 
 Se jugara desde una vista de tercera persona que dispondra en el centro abajo de la pantalla de la barra de vida, botones de lanzamiento de habilidades y pociones. Arriba a la derecha dispondra del minimapa.
+
+<img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/dos-0048_h4z6.jpg >
+
 
 ## Música y sonido
 

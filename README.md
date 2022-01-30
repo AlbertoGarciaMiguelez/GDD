@@ -22,13 +22,13 @@ GAME DESIGN DOCUMENT TEMPLATE
        
 5. Música y Sonido
    1. Efectos
-      1.Objectos
-      2.Ataques
-      3.Diálogos
+      1. Objectos
+      2. Ataques
+      3. Diálogos
    3. Ambiental
-      1.Boses
-      2.Ciudades
-      3.Mapa
+      1. Boses
+      2. Ciudades
+      3. Mapa
 6. Mapas y Niveles
    1.  Tutorial
    2.  Mapa

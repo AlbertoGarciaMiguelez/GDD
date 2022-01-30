@@ -68,7 +68,7 @@ Una vez derrotado a los 4 reyes desbloqueas la cripta donde se encuentra el Fina
 
 ### Pantalla de inicio
 
-<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/PantalladeInicio.jpg >
+<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/img/PantalladeInicio.jpg >
 
 ### Elección
 

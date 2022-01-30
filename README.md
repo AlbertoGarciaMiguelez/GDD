@@ -178,3 +178,13 @@ Una vez derrotado a los 4 reyes desbloqueas la cripta donde se encuentra el Fina
       Gran Flecha: lanzas una flecha mágica que atraviesa a los enemigos y hace daño adicional.
       Precisión aumentada: aumenta el daño y la velocidad de los básicos.
       
+### PVE
+
+La IA estara programa para tener 3 niveles de dificultad.
+Fácil: El nivel de dificultad mas básico, para el disfrute del jugador, cada enemigo tendra el daño y la vida bajados un 50% y habra una reducción de enemigos en un 25%. Asi como que no se podra desbloquear un final alternativo para colocar como reto al jugador y incentivar a pasarselo en modo normal.
+
+Normal: Nivel de dificultad para todos los jugadores sin ningun tipo de secreto, pero también sin ningún tipo de bloqueo de mapa o nivel.
+
+Dificil: Nivel de dificultad avanzado para jugadores expertos, plantea un reto para los jugadores así como una cinemática adicional como recompensa y un logro.
+
+En el futuro se tendrá pensado añadir nivel de dificultad mas elevados así como efectos especiales que dificulten la jugabilidad.

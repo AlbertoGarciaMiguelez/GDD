@@ -133,4 +133,36 @@ Una vez derrotado a los 4 reyes desbloqueas la cripta donde se encuentra el Fina
       Dash de fuego: te conviertes en fuego intangible y provocas quemaduras.
       Fantasma: te conviertes en un fantasma indetectable pero puedes seguir lanzando habilidades.
       
+**Guerrero**
+      
+      Habilidades hasta Nivel 20
+      
+      Refuerzo: adquiere reduccion de daño.
+      Mandoble: crea con dos espadas para atacar mas rapido.
+      Berserker: aumenta la velocidad de ataque.
+      Giro de espadas: gira las espadas y hace daño en un radio de 4 unidades.
+      Remate: ejecuta a un enemigo con poca vida.
+      Nemesis: elige a un enemigo, hace mas daño pero le haces mas daño.
+
+**Asesino**
+      
+      Habilidades hasta Nivel 20
+      
+      Cuchillo arrojadizo: lanza un cuchillo que hace daño a distancia
+      Daga por la espalda: te teletransportas atras del enemigo y aplicas veneno.
+      Giro de dagas: crea dagas alrededor del asesino que hacen daño cuando hacen contacto.
+      Danza de los cuatro vientos: aumenta la velocidad y el daño.
+      Sexta venguante: te vuelves invisible y el siguiente ataque hace mas daño.
+      Kikhenda: crea 4 copias tuyas que hacen daño y copian todas tus habilidades.
+   
+**Arquero**
+
+      Habilidades hasta Nivel 20
+      
+      Lluvia de flechas; crea una lluvia de flechas que hace daño en un radio lejano.
+      Flecha única: cargas una flecha al máximo que hace daño adicional.
+      Arco de Cúpido: dejas tu daño de lado para aturdir a los enemigos durante un perido de tiempo largo.
+      Adiós: dejas el arco de lado para clavar la flecha al enemigo como una daga.
+      Gran Flecha: lanzas una flecha mágica que atraviesa a los enemigos y hace daño adicional.
+      Precisión aumentada: aumenta el daño y la velocidad de los básicos.
       

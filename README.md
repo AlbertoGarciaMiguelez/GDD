@@ -10,7 +10,7 @@ GAME DESIGN DOCUMENT TEMPLATE
 
 2. Historia
  
-3. Interfaz
+3. Diagramas de flujo
    1. Pantalla Inicio
    2. Elección
    3. Opciones
@@ -40,11 +40,16 @@ GAME DESIGN DOCUMENT TEMPLATE
 ## Características básicas
 
 ### Introducción
+
 Destrilla es un MMORPG linial ambientado en un mundo de fantasía. Tu personaje aparece sin memoria y solo puede recuperarla accediendo a la antigua arca del Rey Antiguo Jeff que esta protegida por un sello de los 4 reyes. El estilo del juego se busca que sea lo más impresionante posible para fascinar con las habilidades a los jugadores y creando un gran conjunto de estas.
 
 ### Descripción
+
 Destrilla es un mundo de fantasía que gobiernan 4 grandes reyes y hermanos entre si llamados Tornus, Jinko, Mabia y Niquia. Que llevan muchos años en conflicto debido a la herencia de su padre el Gran Rey Fran. Cada uno de estos reyes consiguio un area de influencia y domina un amplio territorio, tu misión es derrotar a los 4 reyes para dejar atras está disputa. Pero solo buscas que con esta acción rompas el sello y se abra la cripta del antiguo rey y recuperar la memoria.
 
+### Género
+
+Se trata de un RPG linial.
 
 ### Historia
 
@@ -59,9 +64,11 @@ Cada reino tiene un funcionamiento (Ejemplo: y una distinta forma de economía a
 Una vez derrotado a los 4 reyes desbloqueas la cripta donde se encuentra el Final Boss que es el Gran Rey Fran donde al matarlo desbloqueas tus recuerdos y desaces la maldición. Descrubiendo tu origen y un nuevo continente, oculto hasta ahora.
 
 
-## Interfaz
+## Diagrama de flujo
 
 ### Pantalla de inicio
+
+<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/PantalladeInicio.jpg >
 
 ### Elección
 

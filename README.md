@@ -19,6 +19,7 @@ GAME DESIGN DOCUMENT TEMPLATE
    1. Controles
    2. Habilidades
    3. PVE
+   4. Gameplay
        
 5. Música y Sonido
    1. Efectos
@@ -187,6 +188,10 @@ Dificil: Nivel de dificultad avanzado para jugadores expertos, plantea un reto p
 
 En el futuro se tendrá pensado añadir nivel de dificultad mas elevados así como efectos especiales que dificulten la jugabilidad.
 
+### Gameplay
+
+Se jugara desde una vista de tercera persona que dispondra en el centro abajo de la pantalla de la barra de vida, botones de lanzamiento de habilidades y pociones. Arriba a la derecha dispondra del minimapa.
+
 ## Música y sonido
 
 ### Sonidos
@@ -243,3 +248,7 @@ El cuarto reino vendrá de una reciente conquista por metodos de fuerza bruta, l
 
 El personaje evoluciona según la experienza adquirida en las misiones. Al subir de nivel el personaje tendrá la opción de elegir una habilidad nueva o simplemente se aumentaran sus atributos. El juego sigue una continuidad linial por lo que los niveles de los enemigos iran a casi siempre a la par del personaje exceptuando que se haga o no alguna misión secundaria.
 El nivel máximo sera el 60 cuando llegues a ese nivel se espera que hayas completado el juego o que en su lugar quede poco para ser completado.
+
+## Arte de juego
+
+Un arte realista 

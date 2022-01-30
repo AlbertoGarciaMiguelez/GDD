@@ -70,7 +70,9 @@ Una vez derrotado a los 4 reyes desbloqueas la cripta donde se encuentra el Fina
 
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/pantalladeInicio.JPG >
 
-### Elección
+### Elección de personaje
+
+<img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/Eleccion.JPG >
 
 ### Opciones
 

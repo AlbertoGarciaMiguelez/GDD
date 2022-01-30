@@ -10,7 +10,7 @@ GAME DESIGN DOCUMENT TEMPLATE
 
 2. Historia
  
-3. Diagramas de flujo
+3. Interfaz: Diagramas de flujo
    1. Pantalla Inicio
    2. Elección
    3. Opciones
@@ -64,7 +64,7 @@ Cada reino tiene un funcionamiento (Ejemplo: y una distinta forma de economía a
 Una vez derrotado a los 4 reyes desbloqueas la cripta donde se encuentra el Final Boss que es el Gran Rey Fran donde al matarlo desbloqueas tus recuerdos y desaces la maldición. Descrubiendo tu origen y un nuevo continente, oculto hasta ahora.
 
 
-## Diagrama de flujo
+## Interfaz: Diagrama de flujo
 
 ### Pantalla de inicio
 

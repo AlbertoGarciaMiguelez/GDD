@@ -16,9 +16,9 @@ GAME DESIGN DOCUMENT TEMPLATE
    3. Opciones
  
 4. Mecánicas en juego
-   1.Controles
-   2.Habilidades
-   3.PVE y PVP
+   1. Controles
+   2. Habilidades
+   3. PVE
        
 5. Música y Sonido
    1. Efectos

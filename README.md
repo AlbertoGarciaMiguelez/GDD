@@ -76,6 +76,9 @@ Una vez derrotado a los 4 reyes desbloqueas la cripta donde se encuentra el Fina
 
 ### Opciones
 
+
+<img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/opciones.JPG >
+
 ## Mecánicas del juego
 
 ### Controles

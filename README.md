@@ -25,10 +25,9 @@ GAME DESIGN DOCUMENT TEMPLATE
       1. Objectos
       2. Ataques
       3. Diálogos
-   3. Ambiental
-      1. Boses
-      2. Ciudades
-      3. Mapa
+   2. Ambiental
+      1. Ciudades
+      2. Mapa
 6. Mapas y Niveles
    1.  Tutorial
    2.  Mapa
@@ -188,3 +187,35 @@ Normal: Nivel de dificultad para todos los jugadores sin ningun tipo de secreto,
 Dificil: Nivel de dificultad avanzado para jugadores expertos, plantea un reto para los jugadores así como una cinemática adicional como recompensa y un logro.
 
 En el futuro se tendrá pensado añadir nivel de dificultad mas elevados así como efectos especiales que dificulten la jugabilidad.
+
+## Música y sonido
+
+### Sonidos
+
+**Básicos**
+
+Cofres: sonido sencillo de cofre que va a variar según la calidad del cofre.
+Pociones: sonido de curación o bufo recogido de otros juegos como el New World.
+
+
+**Ataques**
+
+Básicos: los ataques básicos tendran un sonido tenue para no molestar al jugador ya que seran los más utilizados sobre todo en clases como el arquero. También dispondran de un sonido más característico cuando se trate de un crítico.
+
+Especiales: los ataques especiales van a ser super carcterísticos para poder diferencialos claramente y van a seguir un patrón muy sencillo, cuanto más daño, más ruido, más increible va a sonar y más va a durar. Así como se intentare crear un rebote de eco para mayor espectáculo.
+
+**Dialogos**
+
+Cinemáticas: en las cinemáticas se busca un dialogo más profundo orientado al jugador que trate se sumergirlo en las escena y también que informe de las cosas más importantes de la trama y del objetivo principal del juego.
+
+Personajes: los dialogos de los personajes se pueden saltar, serán rapidos y la mayoria estarán subtitulados y con un simple sonido del NPC como "VAYA" para mayor velocidad de jugabilidad. Se busca que sea algo dinámico. Y los dialogos se van a poder saltar.
+
+### Música
+
+#### Ciudades
+
+Cada ciudad tendrá una música de acuerdo con su temática.
+
+#### Mapa
+
+La música del mapa dependera del reino en que se encuentre

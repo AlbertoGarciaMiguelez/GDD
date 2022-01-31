@@ -298,6 +298,6 @@ El cuarto reino cambiara de música dependiendo de la zona en la que se sitúe v
 Un arte realista 
 
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/1.jpg>
-<img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/3.jpeg>
-<img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/4.jpg>
+<img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/3.jpg>
+<img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/4.jpeg>
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/5.jpg>

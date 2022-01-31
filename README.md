@@ -208,15 +208,15 @@ Pociones: sonido de curación o bufo recogido de otros juegos como el New World.
 
 **Ataques**
 
-Básicos: los ataques básicos tendran un sonido tenue para no molestar al jugador ya que seran los más utilizados sobre todo en clases como el arquero. También dispondran de un sonido más característico cuando se trate de un crítico.
+Básicos: tendrán un sonido tenue para no molestar al jugador ya que serán los más utilizados sobre todo en clases como el arquero. También dispondrán de un sonido más característico cuando se trate de un crítico.
 
-Especiales: los ataques especiales van a ser super carcterísticos para poder diferencialos claramente y van a seguir un patrón muy sencillo, cuanto más daño, más ruido, más increible va a sonar y más va a durar. Así como se intentare crear un rebote de eco para mayor espectáculo.
+Especiales: van a ser muy carcterísticos para poder diferencialos claramente y van a seguir un patrón muy sencillo. Cuanto más daño, más ruido y más increible va a sonar así como su duración. Se intentare crear un rebote de eco para mayor espectáculo.
 
 **Dialogos**
 
-Cinemáticas: en las cinemáticas se busca un dialogo más profundo orientado al jugador que trate se sumergirlo en las escena y también que informe de las cosas más importantes de la trama y del objetivo principal del juego.
+Cinemáticas: se busca un diálogo más profundo orientado al jugador que trate de sumergirlo en las escena y también que informe de las cosas más importantes de la trama y del objetivo principal del juego.
 
-Personajes: los dialogos de los personajes se pueden saltar, serán rapidos y la mayoria estarán subtitulados y con un simple sonido del NPC como "VAYA" para mayor velocidad de jugabilidad. Se busca que sea algo dinámico. Y los dialogos se van a poder saltar.
+Personajes: los diálogos se podrán saltar, serán rapidos y la mayoria estarán subtitulados y con un simple sonido del NPC como "VAYA!!!" para mayor velocidad de jugabilidad. Se busca que sea algo dinámico. Y los dialogos se van a poder saltar.
 
 ### Música
 
@@ -226,21 +226,20 @@ Cada ciudad tendrá una música de acuerdo con su temática.
 
 #### Mapa
 
-La música del mapa dependera del reino en que se encuentre
+La música del mapa dependerá del reino en que se encuentre
 
 ## Mapas y Niveles
 
 ### Mapa de Tutorial
 
-Para acceder a las aguas termales deben sortear un frondoso bosque rodeado de enemigos que permite al jugador el aprendizaje inicial de los controles de lucha y movimiento. Recrea un mundo de fantasía y aventura. Estas estarán situadas en un valle rodeado de montañas nevadas muy escarpadas y altas, donde se dice que duerme un dragón de nieve muy poderoso.
-
+Para acceder a las aguas termales deben sortear un frondoso bosque rodeado de enemigos que permite al jugador el aprendizaje inicial de los controles de lucha y movimiento. Recrea un mundo de fantasía y aventura. Éstas estarán situadas en un valle rodeado de montañas nevadas muy escarpadas y altas, donde se dice que duerme un dragón de nieve muy poderoso.
 
 
 ### Mapa
 
 El mapa esta dividido en cuatro reinos, cada uno con una temática diferente. 
 
-El primer reino tendrá una temática básada en la industrialización, donde la mayoría de las maquinas funcionaran en base a la quema de carbón como combustible produciendo de esta manera, numeroso vapor de agua que cubrira al reino. Siguiendo está linea los soldados serán maquinas de vapor andantes que vigilan las calles de la ciudad central echa totalmente de cobre. Los alredores se veran afectados por este clima, tendrán un paisaje húmedo y nublado que producira una desventaja en los guerreros debido a que son saben controlar bien la respiración, no como el asesino, provocando ataques más lentos y con menor daño. Teniendo en cuenta la menor visibilidad del paisaje el arquero se vera afectado por esto teniendo el mismo rango que el mago y teniendo una probalidad de fallo.
+El primer reino tendrá una temática básada en la industrialización, donde la mayoría de las maquinas funcionarán en base a la quema de carbón como combustible produciendo de esta manera, numeroso vapor de agua que cubrira al reino. Siguiendo está línea los soldados serán maquinas de vapor andantes que vigilan las calles de la ciudad central echa totalmente de cobre. Los alredores se verán afectados por este clima, tendrán un paisaje húmedo y nublado que producira una desventaja en los guerreros debido a que son saben controlar bien la respiración, no como el asesino, provocando ataques más lentos y con menor daño. Teniendo en cuenta la menor visibilidad del paisaje el arquero se vera afectado por esto teniendo el mismo rango que el mago y teniendo una probalidad de fallo.
 
 El segundo reino estara basado en las culturas antiguas esto se reflejara en contrucciones primitivas pero fuertemente protegidas como muros altos de piedra y de gran grosor provocando así un dificil acceso. Teniendo en cuenta todo esto los soldados tendrán un gran poder de ataque y un gran conocimiento mágico. Lo que los hara mas resistentes contra ataques mágicos del mago y también a ataques especiales del asesino.
 
@@ -250,7 +249,7 @@ El cuarto reino vendrá de una reciente conquista por metodos de fuerza bruta, l
 
 ### Niveles de evolución
 
-El personaje evoluciona según la experienza adquirida en las misiones. Al subir de nivel el personaje tendrá la opción de elegir una habilidad nueva o simplemente se aumentaran sus atributos. El juego sigue una continuidad linial por lo que los niveles de los enemigos iran a casi siempre a la par del personaje exceptuando que se haga o no alguna misión secundaria.
+El personaje evoluciona según la experienza adquirida en las misiones. Al subir de nivel el personaje tendrá la opción de elegir una habilidad nueva o simplemente se aumentarán sus atributos. El juego sigue una continuidad linial por lo que los niveles de los enemigos irán a casi siempre a la par del personaje exceptuando que se haga o no alguna misión secundaria.
 El nivel máximo sera el 60 cuando llegues a ese nivel se espera que hayas completado el juego o que en su lugar quede poco para ser completado.
 
 ## Arte de juego

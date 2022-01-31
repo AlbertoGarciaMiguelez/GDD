@@ -63,7 +63,7 @@ Cuando se empieza a jugar aparece una cinemática donde se ve a 2 personas subie
 
 Aparece una pantalla donde le dice escoger una clase y probar las habilidades de cada una.
 
-Una vez escogida clase se abre un portal en una playa de ella sale toda el agua termal y 2 sujetos. Uno el pupilo congelado y otro el personaje principal que va a manejar el jugador.
+Una vez escogida clase se abre un portal en una playa, de ella sale toda el agua termal y 2 sujetos. Uno el pupilo congelado y otro el personaje principal que va a manejar el jugador.
 
 Se descongela al pupilo, le roba la ropa y se marcha. A medida que se avanza se va descubriendo el mundo, con algunas misiones que van apareciendo y se va desbloqueando habilidades y subiendo niveles.
 Cada reino tiene un funcionamiento y unas características a la vez que se tiene que derrotar a cada rey que es una boss de la zona.

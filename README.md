@@ -193,6 +193,8 @@ En el futuro se tendrá pensado añadir nivel de dificultad más elevados así c
 Se jugará desde una vista en tercera persona que dispondrá en el centro abajo de la pantalla de la barra de vida, botones de lanzamiento de habilidades y pociones. Arriba a la derecha dispondrá del minimapa.
 
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/dos-0048_h4z6.jpg >
+<img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/233723_w926.jpg >
+
 
 
 ## Música y sonido

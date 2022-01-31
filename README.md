@@ -6,7 +6,6 @@ GAME DESIGN DOCUMENT TEMPLATE
 1. Características básicas
    1. Introducción
    2. Descripción  
-   3. Género
 
 2. Historia
  
@@ -46,9 +45,6 @@ Destrilla es un RPG ambientado en un mundo de fantasía. Tu personaje aparece si
 
 Destrilla es un mundo de fantasía donde gobiernan 4 grandes reyes y hermanos entre si llamados Tornus, Jinko, Mabia y Niquia. Estos, llevan muchos años en conflicto debido a la herencia de su padre el Gran Rey Fran. Cada uno de ellos consiguio un area de influencia dominando un amplio territorio, tu misión es derrotar a los 4 reyes para dejar atras esta disputa, pero solo buscas que con esta acción rompas el sello y se abra la cripta del antiguo rey para recuperar la memoria.
 
-### Género
-
-Se trata de un RPG.
 
 ### Historia
 

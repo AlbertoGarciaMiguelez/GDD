@@ -59,6 +59,8 @@ El proyecto tendrá un nuevo equipo de desarrolladores constado por 7 personas q
 
 Cuando se empieza a jugar aparece una cinemática donde se ve a 2 personas subiendo una montaña nevada. El jugador comienza manejando al pupilo y el maestro te está explicando que estais buscando unas aguas termales curativas. A lo largo de la travesía aprendes todos los controles, hace laberintos y derrotas a algunos pequeños enemigos. Cuando llegais a la cima veis agua de donde sale vapor. Hurra!! grita ilusionado el pupilo y se lanza sin pensarlo. El maestro indica que tengas cuidado pero lo ingora. Mientras nada y se relaja el maestro recoge un poco del agua termal y consigue ver que en el agua en el fondo hay un huevo de dragón, alterado manda a su pupilo volver inmediatamente pero es demasiado tarde. Con un estruendo un dragon de nieve aparece volando y lanza un viento helado que congela la pupilo. El maestro combate al dragón donde el jugador puede manejarlo teniendo acceso a todas las habilidades de la rama que el elija. Una vez quitada la mitad de la vida el huevo de dragón se abre sin que puedas visualizar que es y apareciendo un portal que se lleva al pupilo.
 
+<img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/2.jpg>
+
 Aparece una pantalla donde le dice escoger una clase y probar las habilidades de cada una.
 
 Una vez escogida clase se abre un portal en una playa de ella sale toda el agua termal y 2 sujetos. Uno el pupilo congelado y otro el personaje principal que va a manejar el jugador.
@@ -294,3 +296,5 @@ El cuarto reino cambiara de música dependiendo de la zona en la que se sitúe v
 ## Arte de juego
 
 Un arte realista 
+
+<img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/1.jpg>

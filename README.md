@@ -220,6 +220,8 @@ Para acceder a las aguas termales deben sortear un frondoso bosque rodeado de en
 
 El mapa esta dividido en cuatro reinos, cada uno con una temática diferente. 
 
+<img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/7.jpg>
+
 **El primer reino** tendrá una temática básada en la industrialización, donde la mayoría de las maquinas funcionarán en base a la quema de carbón como combustible produciendo de esta manera, numeroso vapor de agua que cubrira al reino. Siguiendo está línea los soldados serán maquinas de vapor andantes que vigilan las calles de la ciudad central echa totalmente de cobre. Los alredores se verán afectados por este clima, tendrán un paisaje húmedo y nublado que producira una desventaja en los guerreros debido a que son saben controlar bien la respiración, no como el asesino, provocando ataques más lentos y con menor daño. Teniendo en cuenta la menor visibilidad del paisaje el arquero se vera afectado por esto teniendo el mismo rango que el mago y teniendo una probalidad de fallo.
 
 **El segundo reino** estara basado en las culturas antiguas, esto se reflejara en contrucciones primitivas pero fuertemente protegidas como muros altos de piedra y de gran grosor provocando así un dificil acceso. Teniendo en cuenta todo esto los soldados tendrán un gran poder de ataque y un gran conocimiento mágico. Lo que los hara mas resistentes contra ataques mágicos del mago y también a ataques especiales del asesino.

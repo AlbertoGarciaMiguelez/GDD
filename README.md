@@ -293,7 +293,7 @@ El primer reino tendrá musica misteriosa. Ejemplo: Chakras Escape.
 El cuarto reino cambiara de música dependiendo de la zona en la que se sitúe variando siempre con el género de rock, rap y drum & bass.
 
 
-## Arte de juego
+## Arte del juego
 
 
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/1.jpg>

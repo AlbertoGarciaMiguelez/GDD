@@ -40,7 +40,7 @@ GAME DESIGN DOCUMENT TEMPLATE
 
 ### Introducción
 
-Destrilla es un RPG linial ambientado en un mundo de fantasía. Tu personaje aparece sin memoria y solo puede recuperarla accediendo a la antigua arca del Rey Antiguo Jeff que esta protegida por un sello de los 4 reyes. El estilo del juego se busca que sea lo más impresionante posible para fascinar con las habilidades a los jugadores y creando un gran conjunto de estas.
+Destrilla es un RPG lineal ambientado en un mundo de fantasía. Tu personaje aparece sin memoria y solo puede recuperarla accediendo a la antigua arca del Rey Antiguo Jeff que esta protegida por un sello de los 4 reyes. El estilo del juego se busca que sea lo más impresionante posible para fascinar con las habilidades a los jugadores y creando un gran conjunto de estas.
 
 ### Descripción
 
@@ -48,7 +48,7 @@ Destrilla es un mundo de fantasía donde gobiernan 4 grandes reyes y hermanos en
 
 ### Género
 
-Se trata de un RPG linial.
+Se trata de un RPG lineal.
 
 ### Historia
 
@@ -241,15 +241,15 @@ El mapa esta dividido en cuatro reinos, cada uno con una temática diferente.
 
 El primer reino tendrá una temática básada en la industrialización, donde la mayoría de las maquinas funcionarán en base a la quema de carbón como combustible produciendo de esta manera, numeroso vapor de agua que cubrira al reino. Siguiendo está línea los soldados serán maquinas de vapor andantes que vigilan las calles de la ciudad central echa totalmente de cobre. Los alredores se verán afectados por este clima, tendrán un paisaje húmedo y nublado que producira una desventaja en los guerreros debido a que son saben controlar bien la respiración, no como el asesino, provocando ataques más lentos y con menor daño. Teniendo en cuenta la menor visibilidad del paisaje el arquero se vera afectado por esto teniendo el mismo rango que el mago y teniendo una probalidad de fallo.
 
-El segundo reino estara basado en las culturas antiguas esto se reflejara en contrucciones primitivas pero fuertemente protegidas como muros altos de piedra y de gran grosor provocando así un dificil acceso. Teniendo en cuenta todo esto los soldados tendrán un gran poder de ataque y un gran conocimiento mágico. Lo que los hara mas resistentes contra ataques mágicos del mago y también a ataques especiales del asesino.
+El segundo reino estara basado en las culturas antiguas, esto se reflejara en contrucciones primitivas pero fuertemente protegidas como muros altos de piedra y de gran grosor provocando así un dificil acceso. Teniendo en cuenta todo esto los soldados tendrán un gran poder de ataque y un gran conocimiento mágico. Lo que los hara mas resistentes contra ataques mágicos del mago y también a ataques especiales del asesino.
 
-El tercer reino estara basado en un mundo futurista, totalmente automatizado controlados por inteligencias superior y algunos con capacidades de predecir los movimientos. El mundo estará controlado por defensas altamente avanzadas como torretas, maquinas voladoras y sensores de movimientos. Lo que reducira el daño al arquero debido a que las defensas tienen mayor resistencia a los ataques lejanos y al asesino debido a que los soldados cuentan con visión termica lo que hace inservible la invisibilidad de este.
+El tercer reino estara basado en un mundo futurista, totalmente automatizado controlados por inteligencias superior y algunos con capacidades de predecir los movimientos. El mundo estará controlado por defensas altamente avanzadas como torretas, maquinas voladoras y sensores de movimientos, lo que reducira el daño al arquero debido a que las defensas tienen mayor resistencia a los ataques lejanos y al asesino debido a que los soldados cuentan con visión termica lo que hace inservible la invisibilidad de este.
 
 El cuarto reino vendrá de una reciente conquista por metodos de fuerza bruta, la mayoria de los edificios estarán ardiendo o siendo atacados. El reino es un caos absoluto que se intentan matar entre todos para predominar el más fuerte. Edificaciones destruidas, fuego por todos lados, objetos mágicos vertidos en el agua, disparos, enemigos en cualquier lado. En este reino las debilidades van variando dependiendo del punto del mapa, excepto en la ciudad central donde se verán afectados por todas las debilidades a la vez, reduciendo el daño y la vida.
 
 ### Niveles de evolución
 
-El personaje evoluciona según la experienza adquirida en las misiones. Al subir de nivel el personaje tendrá la opción de elegir una habilidad nueva o simplemente se aumentarán sus atributos. El juego sigue una continuidad linial por lo que los niveles de los enemigos irán a casi siempre a la par del personaje exceptuando que se haga o no alguna misión secundaria.
+El personaje evoluciona según la experienza adquirida en las misiones. Al subir de nivel el personaje tendrá la opción de elegir una habilidad nueva o simplemente se aumentarán sus atributos. El juego sigue una continuidad lineal por lo que los niveles de los enemigos irán a casi siempre a la par del personaje exceptuando que se haga o no alguna misión secundaria.
 El nivel máximo sera el 60 cuando llegues a ese nivel se espera que hayas completado el juego o que en su lugar quede poco para ser completado.
 
 ## Arte de juego

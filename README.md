@@ -21,6 +21,7 @@ GAME DESIGN DOCUMENT TEMPLATE
    2. Habilidades
    3. PVE
    4. Gameplay
+   5. Tecnología
    
 6. Mapas y Niveles
    1.  Tutorial
@@ -198,6 +199,10 @@ Se jugará desde una vista en tercera persona que dispondrá en el centro abajo 
 
 El gameplay será rápido y frenético. La mecánica que seguira el juego es de progresión los jugadores notaran que avanzan, que progresan en cada uno de los desafios y que sepan en todo momento en qué punto se encuentra y cuánto les falta para conseguir terminarlos y una ganancia de recompensas por este avanze como objetos avanzados.
 
+### Tecnología
+
+Unity3D
+Esta herramienta se puede usar de forma gratuita. Perfecto para estudios indies.
 
 ## Mapas y Niveles
 

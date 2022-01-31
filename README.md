@@ -179,18 +179,18 @@ Una vez derrotado a los 4 reyes se desbloquea la cripta donde se encuentra el Fi
       
 ### PVE
 
-La IA estara programa para tener 3 niveles de dificultad.
-Fácil: El nivel de dificultad mas básico, para el disfrute del jugador, cada enemigo tendra el daño y la vida bajados un 50% y habra una reducción de enemigos en un 25%. Asi como que no se podra desbloquear un final alternativo para colocar como reto al jugador y incentivar a pasarselo en modo normal.
+La IA estará programa para tener 3 niveles de dificultad.
+Fácil: El nivel de dificultad más básico para el disfrute del jugador. Cada enemigo tendrá el daño y la vida bajados un 50% y habrá una reducción de enemigos en un 25%. En este nivel se podrá desbloquear un final alternativo para colocar como reto al jugador y incentivar a pasárselo en modo normal.
 
-Normal: Nivel de dificultad para todos los jugadores sin ningun tipo de secreto, pero también sin ningún tipo de bloqueo de mapa o nivel.
+Normal: Nivel de dificultad para todos los jugadores sin ningun tipo de secreto pero también sin ningún tipo de bloqueo de mapa o nivel.
 
 Dificil: Nivel de dificultad avanzado para jugadores expertos, plantea un reto para los jugadores así como una cinemática adicional como recompensa y un logro.
 
-En el futuro se tendrá pensado añadir nivel de dificultad mas elevados así como efectos especiales que dificulten la jugabilidad.
+En el futuro se tendrá pensado añadir nivel de dificultad más elevados así como efectos especiales que dificulten la jugabilidad.
 
 ### Gameplay
 
-Se jugara desde una vista de tercera persona que dispondra en el centro abajo de la pantalla de la barra de vida, botones de lanzamiento de habilidades y pociones. Arriba a la derecha dispondra del minimapa.
+Se jugará desde una vista en tercera persona que dispondrá en el centro abajo de la pantalla de la barra de vida, botones de lanzamiento de habilidades y pociones. Arriba a la derecha dispondrá del minimapa.
 
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/dos-0048_h4z6.jpg >
 
@@ -202,6 +202,7 @@ Se jugara desde una vista de tercera persona que dispondra en el centro abajo de
 **Básicos**
 
 Cofres: sonido sencillo de cofre que va a variar según la calidad del cofre.
+
 Pociones: sonido de curación o bufo recogido de otros juegos como el New World.
 
 

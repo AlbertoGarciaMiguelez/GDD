@@ -9,7 +9,7 @@ GAME DESIGN DOCUMENT TEMPLATE
    1. Introducción
    2. Descripción  
 
-2. Nombre del estudio o equipo de diseñadores.
+2. Equipo de diseñadores.
 
 3. Historia
  
@@ -50,9 +50,9 @@ Destrilla es un RPG ambientado en un mundo de fantasía. Tu personaje aparece si
 
 Destrilla es un mundo de fantasía donde gobiernan 4 grandes reyes y hermanos entre si llamados Tornus, Jinko, Mabia y Niquia. Estos, llevan muchos años en conflicto debido a la herencia de su padre el Gran Rey Fran. Cada uno de ellos consiguio un area de influencia dominando un amplio territorio, tu misión es derrotar a los 4 reyes para dejar atras esta disputa, pero solo buscas que con esta acción rompas el sello y se abra la cripta del antiguo rey para recuperar la memoria.
 
-## Nombre del estudio
+## Equipo de diseñadores
 
-El proyecto tendrá  un nuevo equipo de desarrolladores que se van a introducir en el mercado pero como soporte tendrán a Tequila Works.
+El proyecto tendrá un nuevo equipo de desarrolladores constado por 7 personas que se van a introducir en el mercado pero como soporte tendrán a Tequila Works.
 
 ### Historia
 

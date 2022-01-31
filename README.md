@@ -301,3 +301,4 @@ El cuarto reino cambiara de música dependiendo de la zona en la que se sitúe v
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/1.jpg>
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/3.jpg>
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/5.jpg>
+<img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/6.jpg>

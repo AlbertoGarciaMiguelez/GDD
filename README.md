@@ -299,5 +299,4 @@ Un arte realista
 
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/1.jpg>
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/3.jpg>
-<img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/4.jpeg>
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/5.jpg>

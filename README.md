@@ -40,7 +40,7 @@ GAME DESIGN DOCUMENT TEMPLATE
 
 ### Introducción
 
-Destrilla es un RPG lineal ambientado en un mundo de fantasía. Tu personaje aparece sin memoria y solo puede recuperarla accediendo a la antigua arca del Rey Antiguo Jeff que esta protegida por un sello de los 4 reyes. El estilo del juego se busca que sea lo más impresionante posible para fascinar con las habilidades a los jugadores y creando un gran conjunto de estas.
+Destrilla es un RPG ambientado en un mundo de fantasía. Tu personaje aparece sin memoria y solo puede recuperarla accediendo a la antigua arca del Rey Antiguo Jeff que esta protegida por un sello de los 4 reyes. El estilo del juego se busca que sea lo más impresionante posible para fascinar con las habilidades a los jugadores y creando un gran conjunto de estas.
 
 ### Descripción
 
@@ -48,7 +48,7 @@ Destrilla es un mundo de fantasía donde gobiernan 4 grandes reyes y hermanos en
 
 ### Género
 
-Se trata de un RPG lineal.
+Se trata de un RPG.
 
 ### Historia
 

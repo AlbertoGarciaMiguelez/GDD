@@ -211,9 +211,9 @@ El mapa esta dividido en cuatro reinos, cada uno con una temática diferente.
 
 **El segundo reino** estara basado en las culturas antiguas, esto se reflejara en contrucciones primitivas pero fuertemente protegidas como muros altos de piedra y de gran grosor provocando así un dificil acceso. Teniendo en cuenta todo esto los soldados tendrán un gran poder de ataque y un gran conocimiento mágico. Lo que los hara mas resistentes contra ataques mágicos del mago y también a ataques especiales del asesino.
 
-El tercer reino estara basado en un mundo futurista, totalmente automatizado controlados por inteligencias superior y algunos con capacidades de predecir los movimientos. El mundo estará controlado por defensas altamente avanzadas como torretas, maquinas voladoras y sensores de movimientos, lo que reducira el daño al arquero debido a que las defensas tienen mayor resistencia a los ataques lejanos y al asesino debido a que los soldados cuentan con visión termica lo que hace inservible la invisibilidad de este.
+**El tercer reino** estara basado en un mundo futurista, totalmente automatizado controlados por inteligencia superior y algunos con capacidades de predecir los movimientos. El mundo estará controlado por defensas altamente avanzadas como torretas, maquinas voladoras y sensores de movimientos, lo que reducira el daño al arquero debido a que las defensas tienen mayor resistencia a los ataques lejanos y al asesino debido a que los soldados cuentan con visión termica lo que hace inservible la invisibilidad de este.
 
-El cuarto reino vendrá de una reciente conquista por metodos de fuerza bruta, la mayoria de los edificios estarán ardiendo o siendo atacados. El reino es un caos absoluto que se intentan matar entre todos para predominar el más fuerte. Edificaciones destruidas, fuego por todos lados, objetos mágicos vertidos en el agua, disparos, enemigos en cualquier lado. En este reino las debilidades van variando dependiendo del punto del mapa, excepto en la ciudad central donde se verán afectados por todas las debilidades a la vez, reduciendo el daño y la vida.
+**El cuarto reino** vendrá de una reciente conquista por metodos de fuerza bruta, la mayoria de los edificios estarán ardiendo o siendo atacados. El reino es un caos absoluto que se intentan matar entre todos para predominar el más fuerte. Edificaciones destruidas, fuego por todos lados, objetos mágicos vertidos en el agua, disparos, enemigos en cualquier lado. En este reino las debilidades van variando dependiendo del punto del mapa, excepto en la ciudad central donde se verán afectados por todas las debilidades a la vez, reduciendo el daño y la vida.
 
 ### Niveles de evolución
 
@@ -249,16 +249,35 @@ Personajes: los diálogos se podrán saltar, serán rapidos y la mayoria estará
 
 Cada ciudad tendrá una música de acuerdo con su temática.
 
-El segundo reino tendrá una música
+El primer reino tendrá una música de género Electro Swing para dar un ambiente de industrialización. Ejemplo: Libella Swing.
 
-El tercer reino tendrá una música
+El segundo reino tendrá una música tranquila y relajada. Ejemplo: Kino's Journey OST - I See You OST.
 
-El cuarto reino tendrá una música caótica estilo rock de desenfreno, para hacer efecto con el estilo de la ciudad.
+El tercer reino tendrá una música Techno para dar el ambiente futurista. Ejemplo: Inhuman.
+
+El cuarto reino tendrá una música caótica estilo rock. Ejemplo: Don't Look- Silent Partner.
 
 
 #### Mapa
 
-La música del mapa dependerá del reino en que se encuentre
+La música de la intro del juego y la pantalla inicial.
+
+Mushoku tensei - 『Tabibito no Uta』by Yuiko Ohara.
+
+Para el tutorial.
+
+MHW: Iceborne OST Seliana Day Theme.
+
+La música del mapa en principio se buscá que sea genérica y que de un toque de fantasía.
+
+MHX OST [Disc 1] - MHX Promo Video.
+Pokke Village Theme - MH Generations.
+
+Exceptuando los alrededores del primer reino debido a la niebla y el cuarto por la cantidad de aleatoriedades que se encuentran.
+
+El primer reino tendrá musica misteriosa. Ejemplo: Chakras Escape.
+
+El cuarto reino cambiara de música dependiendo de la zona en la que se sitúe variando siempre con el género de rock y rap.
 
 
 ## Arte de juego

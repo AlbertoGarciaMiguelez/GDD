@@ -277,7 +277,7 @@ Exceptuando los alrededores del primer reino debido a la niebla y el cuarto por 
 
 El primer reino tendrá musica misteriosa. Ejemplo: Chakras Escape.
 
-El cuarto reino cambiara de música dependiendo de la zona en la que se sitúe variando siempre con el género de rock y rap.
+El cuarto reino cambiara de música dependiendo de la zona en la que se sitúe variando siempre con el género de rock, rap y drum & bass.
 
 
 ## Arte de juego

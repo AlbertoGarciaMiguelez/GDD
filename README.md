@@ -7,25 +7,27 @@ GAME DESIGN DOCUMENT TEMPLATE
    1. Introducción
    2. Descripción  
 
-2. Historia
+2. Nombre del estudio o equipo de diseñadores.
+
+3. Historia
  
-3. Interfaz: Diagramas de flujo
+4. Interfaz: Diagramas de flujo
    1. Pantalla Inicio
    2. Elección
    3. Opciones
  
-4. Mecánicas en juego
+5. Mecánicas en juego
    1. Controles
    2. Habilidades
    3. PVE
    4. Gameplay
    
-5. Mapas y Niveles
+6. Mapas y Niveles
    1.  Tutorial
    2.  Mapa
    3.  Niveles de evolución
 
-6. Música y Sonido
+7. Música y Sonido
    1. Efectos
       1. Objectos
       2. Ataques
@@ -33,7 +35,7 @@ GAME DESIGN DOCUMENT TEMPLATE
    2. Ciudades
    3. Mapa
 
-7. Arte del juego 
+8. Arte del juego 
 
 ## Características básicas
 
@@ -45,6 +47,9 @@ Destrilla es un RPG ambientado en un mundo de fantasía. Tu personaje aparece si
 
 Destrilla es un mundo de fantasía donde gobiernan 4 grandes reyes y hermanos entre si llamados Tornus, Jinko, Mabia y Niquia. Estos, llevan muchos años en conflicto debido a la herencia de su padre el Gran Rey Fran. Cada uno de ellos consiguio un area de influencia dominando un amplio territorio, tu misión es derrotar a los 4 reyes para dejar atras esta disputa, pero solo buscas que con esta acción rompas el sello y se abra la cripta del antiguo rey para recuperar la memoria.
 
+## Nombre del estudio
+
+El proyecto tendrá  un nuevo equipo de desarrolladores que se van a introducir en el mercado pero como soporte tendrán a Tequila Works.
 
 ### Historia
 
@@ -190,6 +195,8 @@ Se jugará desde una vista en tercera persona que dispondrá en el centro abajo 
 
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/dos-0048_h4z6.jpg >
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/233723_w926.jpg >
+
+El gameplay será rápido y frenético. La mecánica que seguira el juego es de progresión los jugadores notaran que avanzan, que progresan en cada uno de los desafios y que sepan en todo momento en qué punto se encuentra y cuánto les falta para conseguir terminarlos y una ganancia de recompensas por este avanze como objetos avanzados.
 
 
 ## Mapas y Niveles

@@ -295,7 +295,6 @@ El cuarto reino cambiara de música dependiendo de la zona en la que se sitúe v
 
 ## Arte de juego
 
-Un arte realista 
 
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/1.jpg>
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/3.jpg>

@@ -28,7 +28,7 @@ GAME DESIGN DOCUMENT TEMPLATE
 6. Mapas y Niveles
    1.  Tutorial
    2.  Mapa
-   3.  Niveles de evolución
+   3.  Niveles y evolución
 
 7. Música y Sonido
    1. Efectos
@@ -230,7 +230,7 @@ El mapa esta dividido en cuatro reinos, cada uno con una temática diferente.
 
 **El cuarto reino** vendrá de una reciente conquista por metodos de fuerza bruta, la mayoria de los edificios estarán ardiendo o siendo atacados. El reino es un caos absoluto que se intentan matar entre todos para predominar el más fuerte. Edificaciones destruidas, fuego por todos lados, objetos mágicos vertidos en el agua, disparos, enemigos en cualquier lado. En este reino las debilidades van variando dependiendo del punto del mapa, excepto en la ciudad central donde se verán afectados por todas las debilidades a la vez, reduciendo el daño y la vida.
 
-### Niveles de evolución
+### Niveles y evolución
 
 El personaje evoluciona según la experienza adquirida en las misiones. Al subir de nivel el personaje tendrá la opción de elegir una habilidad nueva o simplemente se aumentarán sus atributos. El juego sigue una continuidad lineal por lo que los niveles de los enemigos irán a casi siempre a la par del personaje exceptuando que se haga o no alguna misión secundaria.
 El nivel máximo sera el 60 cuando llegues a ese nivel se espera que hayas completado el juego o que en su lugar quede poco para ser completado.

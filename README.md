@@ -44,7 +44,7 @@ GAME DESIGN DOCUMENT TEMPLATE
 
 ### Introducción
 
-Destrilla es un RPG ambientado en un mundo de fantasía. Tu personaje aparece sin memoria y solo puede recuperarla accediendo a la antigua arca del Rey Antiguo Jeff que esta protegida por un sello de los 4 reyes. El estilo del juego se busca que sea lo más impresionante posible para fascinar con las habilidades a los jugadores y creando un gran conjunto de estas.
+Destrilla es un RPG en acción en tercera para un solo jugador ambientado en un mundo de fantasía. En principio para PC. Tu personaje aparece sin memoria y solo puede recuperarla accediendo a la antigua arca del Rey Antiguo Jeff que esta protegida por un sello de los 4 reyes. El estilo del juego se busca que sea lo más impresionante posible para fascinar con las habilidades a los jugadores y creando un gran conjunto de estas.
 
 
 ### Descripción

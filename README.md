@@ -46,6 +46,7 @@ GAME DESIGN DOCUMENT TEMPLATE
 
 Destrilla es un RPG ambientado en un mundo de fantasía. Tu personaje aparece sin memoria y solo puede recuperarla accediendo a la antigua arca del Rey Antiguo Jeff que esta protegida por un sello de los 4 reyes. El estilo del juego se busca que sea lo más impresionante posible para fascinar con las habilidades a los jugadores y creando un gran conjunto de estas.
 
+
 ### Descripción
 
 Destrilla es un mundo de fantasía donde gobiernan 4 grandes reyes y hermanos entre si llamados Tornus, Jinko, Mabia y Niquia. Estos, llevan muchos años en conflicto debido a la herencia de su padre el Gran Rey Fran. Cada uno de ellos consiguio un area de influencia dominando un amplio territorio, tu misión es derrotar a los 4 reyes para dejar atras esta disputa, pero solo buscas que con esta acción rompas el sello y se abra la cripta del antiguo rey para recuperar la memoria.

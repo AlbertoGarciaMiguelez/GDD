@@ -20,19 +20,19 @@ GAME DESIGN DOCUMENT TEMPLATE
    2. Habilidades
    3. PVE
    4. Gameplay
-       
-5. Música y Sonido
+   
+5. Mapas y Niveles
+   1.  Tutorial
+   2.  Mapa
+   3.  Niveles de evolución
+
+6. Música y Sonido
    1. Efectos
       1. Objectos
       2. Ataques
       3. Diálogos
    2. Ciudades
    3. Mapa
-   
-6. Mapas y Niveles
-   1.  Tutorial
-   2.  Mapa
-   3.  Niveles de evolución
 
 7. Arte del juego 
 
@@ -190,12 +190,35 @@ En el futuro se tendrá pensado añadir nivel de dificultad más elevados así c
 
 ### Gameplay
 
-Se jugará desde una vista en tercera persona que dispondrá en el centro abajo de la pantalla de la barra de vida, botones de lanzamiento de habilidades y pociones. Arriba a la derecha dispondrá del minimapa.
+Se jugará desde una vista en tercera persona que dispondrá en el centro abajo de la pantalla de la barra de vida, botones de lanzamiento de habilidades y pociones. Arriba a la derecha dispondrá del minimapa y justó debajo las misiones.
 
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/dos-0048_h4z6.jpg >
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD/blob/main/img/233723_w926.jpg >
 
 
+## Mapas y Niveles
+
+### Mapa de Tutorial
+
+Para acceder a las aguas termales deben sortear un frondoso bosque rodeado de enemigos que permite al jugador el aprendizaje inicial de los controles de lucha y movimiento. Recrea un mundo de fantasía y aventura. Éstas estarán situadas en un valle rodeado de montañas nevadas muy escarpadas y altas, donde se dice que duerme un dragón de nieve muy poderoso.
+
+
+### Mapa
+
+El mapa esta dividido en cuatro reinos, cada uno con una temática diferente. 
+
+El primer reino tendrá una temática básada en la industrialización, donde la mayoría de las maquinas funcionarán en base a la quema de carbón como combustible produciendo de esta manera, numeroso vapor de agua que cubrira al reino. Siguiendo está línea los soldados serán maquinas de vapor andantes que vigilan las calles de la ciudad central echa totalmente de cobre. Los alredores se verán afectados por este clima, tendrán un paisaje húmedo y nublado que producira una desventaja en los guerreros debido a que son saben controlar bien la respiración, no como el asesino, provocando ataques más lentos y con menor daño. Teniendo en cuenta la menor visibilidad del paisaje el arquero se vera afectado por esto teniendo el mismo rango que el mago y teniendo una probalidad de fallo.
+
+El segundo reino estara basado en las culturas antiguas, esto se reflejara en contrucciones primitivas pero fuertemente protegidas como muros altos de piedra y de gran grosor provocando así un dificil acceso. Teniendo en cuenta todo esto los soldados tendrán un gran poder de ataque y un gran conocimiento mágico. Lo que los hara mas resistentes contra ataques mágicos del mago y también a ataques especiales del asesino.
+
+El tercer reino estara basado en un mundo futurista, totalmente automatizado controlados por inteligencias superior y algunos con capacidades de predecir los movimientos. El mundo estará controlado por defensas altamente avanzadas como torretas, maquinas voladoras y sensores de movimientos, lo que reducira el daño al arquero debido a que las defensas tienen mayor resistencia a los ataques lejanos y al asesino debido a que los soldados cuentan con visión termica lo que hace inservible la invisibilidad de este.
+
+El cuarto reino vendrá de una reciente conquista por metodos de fuerza bruta, la mayoria de los edificios estarán ardiendo o siendo atacados. El reino es un caos absoluto que se intentan matar entre todos para predominar el más fuerte. Edificaciones destruidas, fuego por todos lados, objetos mágicos vertidos en el agua, disparos, enemigos en cualquier lado. En este reino las debilidades van variando dependiendo del punto del mapa, excepto en la ciudad central donde se verán afectados por todas las debilidades a la vez, reduciendo el daño y la vida.
+
+### Niveles de evolución
+
+El personaje evoluciona según la experienza adquirida en las misiones. Al subir de nivel el personaje tendrá la opción de elegir una habilidad nueva o simplemente se aumentarán sus atributos. El juego sigue una continuidad lineal por lo que los niveles de los enemigos irán a casi siempre a la par del personaje exceptuando que se haga o no alguna misión secundaria.
+El nivel máximo sera el 60 cuando llegues a ese nivel se espera que hayas completado el juego o que en su lugar quede poco para ser completado.
 
 ## Música y sonido
 
@@ -226,33 +249,17 @@ Personajes: los diálogos se podrán saltar, serán rapidos y la mayoria estará
 
 Cada ciudad tendrá una música de acuerdo con su temática.
 
+El segundo reino tendrá una música
+
+El tercer reino tendrá una música
+
+El cuarto reino tendrá una música caótica estilo rock de desenfreno, para hacer efecto con el estilo de la ciudad.
+
+
 #### Mapa
 
 La música del mapa dependerá del reino en que se encuentre
 
-## Mapas y Niveles
-
-### Mapa de Tutorial
-
-Para acceder a las aguas termales deben sortear un frondoso bosque rodeado de enemigos que permite al jugador el aprendizaje inicial de los controles de lucha y movimiento. Recrea un mundo de fantasía y aventura. Éstas estarán situadas en un valle rodeado de montañas nevadas muy escarpadas y altas, donde se dice que duerme un dragón de nieve muy poderoso.
-
-
-### Mapa
-
-El mapa esta dividido en cuatro reinos, cada uno con una temática diferente. 
-
-El primer reino tendrá una temática básada en la industrialización, donde la mayoría de las maquinas funcionarán en base a la quema de carbón como combustible produciendo de esta manera, numeroso vapor de agua que cubrira al reino. Siguiendo está línea los soldados serán maquinas de vapor andantes que vigilan las calles de la ciudad central echa totalmente de cobre. Los alredores se verán afectados por este clima, tendrán un paisaje húmedo y nublado que producira una desventaja en los guerreros debido a que son saben controlar bien la respiración, no como el asesino, provocando ataques más lentos y con menor daño. Teniendo en cuenta la menor visibilidad del paisaje el arquero se vera afectado por esto teniendo el mismo rango que el mago y teniendo una probalidad de fallo.
-
-El segundo reino estara basado en las culturas antiguas, esto se reflejara en contrucciones primitivas pero fuertemente protegidas como muros altos de piedra y de gran grosor provocando así un dificil acceso. Teniendo en cuenta todo esto los soldados tendrán un gran poder de ataque y un gran conocimiento mágico. Lo que los hara mas resistentes contra ataques mágicos del mago y también a ataques especiales del asesino.
-
-El tercer reino estara basado en un mundo futurista, totalmente automatizado controlados por inteligencias superior y algunos con capacidades de predecir los movimientos. El mundo estará controlado por defensas altamente avanzadas como torretas, maquinas voladoras y sensores de movimientos, lo que reducira el daño al arquero debido a que las defensas tienen mayor resistencia a los ataques lejanos y al asesino debido a que los soldados cuentan con visión termica lo que hace inservible la invisibilidad de este.
-
-El cuarto reino vendrá de una reciente conquista por metodos de fuerza bruta, la mayoria de los edificios estarán ardiendo o siendo atacados. El reino es un caos absoluto que se intentan matar entre todos para predominar el más fuerte. Edificaciones destruidas, fuego por todos lados, objetos mágicos vertidos en el agua, disparos, enemigos en cualquier lado. En este reino las debilidades van variando dependiendo del punto del mapa, excepto en la ciudad central donde se verán afectados por todas las debilidades a la vez, reduciendo el daño y la vida.
-
-### Niveles de evolución
-
-El personaje evoluciona según la experienza adquirida en las misiones. Al subir de nivel el personaje tendrá la opción de elegir una habilidad nueva o simplemente se aumentarán sus atributos. El juego sigue una continuidad lineal por lo que los niveles de los enemigos irán a casi siempre a la par del personaje exceptuando que se haga o no alguna misión secundaria.
-El nivel máximo sera el 60 cuando llegues a ese nivel se espera que hayas completado el juego o que en su lugar quede poco para ser completado.
 
 ## Arte de juego
 

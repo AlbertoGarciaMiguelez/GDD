@@ -107,8 +107,9 @@ Una vez derrotado a los 4 reyes se desbloquea la cripta donde se encuentra el Fi
     M Mapa
     T Activar Habilidad especial
     G Activar Reliquia especial
-    Right-handed Moverse a X dirección
-    Left-handed Marcar a enemigo
+    Right-handed Seleccionar enemigo
+    Left-handed Seleccionar enemigo
+    Flechas Movimiento
     Tab Ver datos sobre jugadores
     W Habilidad 2
 
